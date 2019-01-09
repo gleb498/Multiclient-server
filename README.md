@@ -1,2 +1,3 @@
 # Multiclient-server
-Was created a multiclient server on threads
+A multiclient server on threads was created
+
